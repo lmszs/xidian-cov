@@ -10,9 +10,9 @@ import time
 import sys
 
 default_mail_host = 'smtp.163.com'  # SMTP服务器
-default_mail_user = 'englishlimaosong@163.com'  # 用户名
-default_mail_pass = 'UJGHFPCSQEWBVZRR'  # 授权密码，非登录密码
-send_hour = [10, 14, 19]  # 填报时间
+default_mail_user = 'xxx@163.com'  # 用户名
+default_mail_pass = 'XXX'  # 授权密码，非登录密码
+send_hour = [10, 13, 19]  # 填报时间
 
 
 def sendEmail(content, title, receivers, mail_user='', mail_pass='', mail_host=''):
