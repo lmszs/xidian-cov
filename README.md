@@ -7,5 +7,6 @@
 ## quick start
 运行configure_3chk.py，得到json发到指定QQ可以直接自动填报，前几次注意自动填报后查看一下确保无误。
 
+注意其中的地址信息可以访问[链接](https://blog.apache553.com/location.html)，直接全部复制粘贴即可。
 ## 自定义发信邮箱
 对于填报错误信息，如果默认发信邮箱直接回车，可以由我的邮箱发送错误信息。如果想用自己的邮箱可以参考[链接](https://blog.csdn.net/weixin_40475396/article/details/78693408)打开SMTP。
